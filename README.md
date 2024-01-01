@@ -5,7 +5,8 @@
 
 ## Run
 ```
-docker compose up
+docker compose build app
+docker compose up -d
 ```
 
 ## Step
