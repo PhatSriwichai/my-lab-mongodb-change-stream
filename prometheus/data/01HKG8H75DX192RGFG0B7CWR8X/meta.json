@@ -1,0 +1,17 @@
+{
+	"ulid": "01HKG8H75DX192RGFG0B7CWR8X",
+	"minTime": 1704563287971,
+	"maxTime": 1704564000000,
+	"stats": {
+		"numSamples": 26872,
+		"numSeries": 813,
+		"numChunks": 813
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HKG8H75DX192RGFG0B7CWR8X"
+		]
+	},
+	"version": 1
+}
